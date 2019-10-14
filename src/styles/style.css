@@ -1,0 +1,71 @@
+
+.loading-container {
+	width: 600px;
+	height: 320px;
+	padding: 50px;
+	margin: 0px auto;
+	border-radius: 10px;
+	background: rgba(255,255,255,0.6);
+	margin-top: 20px;
+}
+
+.loading-container .loading-bar {
+	margin-bottom: 10px;
+}
+.loading-bar {
+	width: 500px;
+	margin: 0px auto;
+	height: 40px;
+	padding: 4px 5px;
+	text-align: center;
+}
+
+.amount {
+	/* we haven't included the colour yet, we'll get to that later. */
+	height: 40px;
+	border-radius: 1px;
+	white-space: nowrap;
+	overflow: hidden;
+	margin-top: -9px;
+	display: inline-block;
+}
+
+.loaded {
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	position: relative;
+	font-size: 20px;
+	text-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+	/*z-index: 9999;*/
+	margin-top: 5px;
+}
+.texted{
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	top: 9px;
+	font-size: 30px;
+	text-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+	color: #fff;
+	/*z-index: 9999;*/
+}
+.one {
+	/*background:url('../images/1_01.png');*/
+	/*background-color: #20b9c3;*/
+}
+.two{
+	/*background-color: #f23000;*/
+}
+.three{
+	/*background-color: #f5a623;*/
+}
+.four {
+	/*background-color: #2d8cf0;*/
+}
+
+.five {
+	/*background-color: #dc6565;*/
+}
+
+
