@@ -14,7 +14,7 @@
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",
     "@tinymce/tinymce-vue": "^1.1.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "clipboard": "^2.0.0",
     "codemirror": "^5.38.0",
     "countup": "^1.8.2",
